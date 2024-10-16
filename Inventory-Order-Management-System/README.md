@@ -1,6 +1,6 @@
-<h1 align="center">MERN-Based Inventory and Order Management System</h1>
+<h1 align="left">MERN-Based Inventory and Order Management System</h1>
 
-# Backend Development Task
+## Backend Development Task
 
 ## Purpose
 Create a backend system to handle user authentication, inventory oversight, and order management.
